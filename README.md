@@ -1,12 +1,12 @@
 # Camille Seaberry
 
-+----------------------------------------------------------+---------------------------------:+
-| Baltimore, MD                                            | ![](seaberry23.jpg){width="181"} |
-|                                                          |                                  |
-| camille.seaberry\@gmail.com                              |                                  |
-|                                                          |                                  |
-| [github.com/camille-s](https://www.github.com/camille-s) |                                  |
-+----------------------------------------------------------+----------------------------------+
+Baltimore, MD
+
+camille.seaberry\@gmail.com
+
+[github.com/camille-s](https://www.github.com/camille-s)
+
+<img src="./seaberry23.jpg" width="140"/>
 
 ## Education
 
