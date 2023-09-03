@@ -1,5 +1,5 @@
 +----------------------------------------------------------+-------------------------------------------:+
-| # Camille Seaberry                                       | ![seaberry23](seaberry23.jpg){width="147"} |
+| # Camille Seaberry                                       | ![seaberry23](seaberry23.jpg)              |
 |                                                          |                                            |
 | Baltimore, MD                                            |                                            |
 |                                                          |                                            |
