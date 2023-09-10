@@ -2,7 +2,7 @@
 
 Baltimore, MD
 
-camille.seaberry\@gmail.com
+camille DOT seaberry AT gmail DOT com
 
 [github.com/camille-s](https://www.github.com/camille-s)
 
